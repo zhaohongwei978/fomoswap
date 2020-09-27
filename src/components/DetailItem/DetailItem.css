@@ -1,0 +1,64 @@
+.detail-item{
+    width: 40%;
+    box-shadow: inset 1px 1px 0 #f7f2f4;
+    background: #e8e8e8;
+    border-radius: 12px;
+    padding: 24px;
+    margin: 12px;
+    height: 320px;
+    position: relative;
+    z-index: 2;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+@media (max-width:768px) {
+    .detail-item {
+        width: 100%;
+    }
+}
+
+.detail-item-logo{
+    width: 100px;
+    height: 100px;
+    background: url(data:image/png;base64,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);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.detail-item-logo-img{
+    width: 48px;
+    height: 48px;
+    /* background: url(../../assets/tiger-logo.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center; */
+}
+
+.detail-item-text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 16px;
+}
+
+.detail-item-btn-box{
+    width: 100%;
+    margin-top: 26px;
+    display: flex;
+}
+
+.detail-item-btn{
+    height: 60px;
+    margin: 8px;
+    line-height: 60px;
+    border-radius: 6px;
+    flex-grow: 1;
+    /* flex-shrink: 1; */
+}

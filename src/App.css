@@ -1,0 +1,107 @@
+@import url('./fonts.css');
+
+/* html {
+    height: 100%
+} */
+
+body{
+    /* text-align: justify; */
+    /* word-break: break-all; */
+    font-size: 12px;
+    background: #FBFBFB;
+    font-family: Neue Haas Unica,PingFang SC,微软雅黑,Microsoft Yahei,宋体,Helvetica,Arial,simsun;
+    background: url(./assets/left.png) no-repeat fixed center left -200px / 600px,
+                url(./assets/right.png) no-repeat fixed center right -260px / 600px;
+    /* min-height: 100vh; */
+}
+
+@media (max-width:768px) {
+    body {
+        background: #FBFBFB;
+    }
+}
+
+#root .App{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    list-style-type: none;
+}
+
+a {
+    outline:none;
+    text-decoration: none;
+    color: inherit;
+}
+a:link {
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+}
+a:active {
+    text-decoration: none;
+}
+a:focus {
+    text-decoration: none;
+}
+
+.btn{
+    text-align: center;
+    line-height: 44px;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 700;
+    background: linear-gradient(270deg,#DD050D,#DD050D);
+    box-shadow: 0 4.84px 4.84px rgba(0,0,0,.15);
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.btn:hover{
+    background: #e65025;
+}
+
+.gray{
+    cursor: not-allowed;
+    background: gray !important;
+}
+
+.gray:hover{
+    background: gray !important;
+}
+
+.input{
+    width: 100%;
+    border: none;
+    outline: none;
+    height: 44px;
+    font-size: 16px;
+    padding: 0 16px;
+    border-radius: 12px;
+    box-sizing: border-box;
+}
+
+.download-msg{
+    word-break: break-all;
+    font-size: 20px;
+    line-height: 20px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.download-msg > a{
+    color: #e85426;
+    font-size: 20px;
+    text-decoration: underline;
+}

@@ -1,0 +1,52 @@
+.menu {
+    padding: 0 15px;
+}
+
+.tokens-list {
+    display: flex;
+    flex-wrap: wrap;
+    padding-bottom: 30px;
+    width: 900px;
+    margin: 0 auto;
+    /* background: url(../../assets/tiger-logo.png); */
+}
+
+@media (max-width: 768px) {
+    .tokens-list {
+        width: 100%
+    }
+
+    .nav-item {
+        padding: 0 8px !important;
+    }
+}
+
+.menu-addr {
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+    line-height: 16px;
+}
+
+.menu-addr > a {
+    text-decoration: underline;
+    color: #2440b3;
+    margin-left: 10px;
+}
+
+.menu-addr > span {
+    display: block;
+    width: 20px;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.buttons .btn {
+    margin: 40px 12px;
+}

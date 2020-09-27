@@ -1,0 +1,67 @@
+{
+    "app": {
+        "install": "执行任何操作的时候，您需要安装",
+        "perform": "",
+        "close": "关闭",
+        "warning": "警告"
+    },
+    "header": {
+        "home": "首页",
+        "park": "庄园",
+        "more": "邀约",
+        "airdrop": "空投",
+        "about": "关于",
+        "wallet": "我的钱包",
+        "lan": "Language",
+        "account": "账户",
+        "balance": "FOMO 余额",
+        "balance1": "FOMOX9 余额",
+        "balance2": "我的TIG余额",
+        "cancel": "取消"
+    },
+    "home": {
+        "balance": "我的 FOMO 余额",
+        "balance1": "我的 FOMOX9 余额",
+        "supply": "当前 FOMO 实际流通量",
+        "supply1": "当前 FOMOX9 实际流通量",
+        "see": "查看庄园",
+        "see2": "开启邀约"
+    },
+    "park": {
+        "earn": "永久赚取",
+        "token": "并分享交易费",
+        "deposit": "存款",
+        "usdt": "并领取FOMO",
+        "fomo": "并领取 FOMOX9",
+        "fomox9": "并9倍速领取FOMO",
+        "mvm": "并领取 FOMOX9",
+        "fam": "并领取 FOMOX9",
+        "day": "天",
+        "finished": "已结束",
+        "notstartted": "尚未开始",
+        "select": "翻牌",
+        "address": "FOMO合约地址",
+        "address1": "FOMOX9合约地址",
+        "TIG_Audit_Report": "TIG合约审计报告",
+        "TIG_Pool_Audit_Report": "TIG流动性池审计报告",
+        "Reports_Details": "详情报告",
+        "total": "APR"
+    },
+    "detail": {
+        "max": "最大值",
+        "confirm": "确认",
+        "deposit": "批准",
+        "earn_fomo": "并获取 FOMO",
+        "earn_fomox9": "并获取 FOMOX9",
+        "earned_fomo": "并获取 FOMO",
+        "earned_fomox9": "并获取 FOMOX9",
+        "staked": "已质押",
+        "adopt": "领取",
+        "feed": "批准",
+        "feed2": "批准",
+        "adoptAndUnstake": "领取并解押",
+        "unstake": "解押",
+        "pledge": "质押",
+        "insufficientBalance": "余额不足"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "app": {
+        "install": "You need to install",
+        "perform": "to perform any action.",
+        "close": "Close",
+        "warning": "warning !"
+    },
+    "header": {
+        "home": "Home",
+        "park": "Manor",
+        "more": "Invite",
+        "airdrop": "AirDrop",
+        "about": "About",
+        "wallet": "My Wallet",
+        "lan": "语言",
+        "account": "My Account",
+        "balance": "FOMO Balance",
+        "balance1": "FOMOX9 Balance",
+        "balance2": "My Tig Balance",
+        "cancel": "Cancel"
+    },
+    "home": {
+        "balance": "My FOMO balance",
+        "balance1": "My FOMOX9 balance",
+        "supply": "Current FOMO Mining Supply",
+        "supply1": "Current FOMOX9 Mining Supply",
+        "see": "See The Manor",
+        "see2": "FOMO Invite"
+    },
+    "park": {
+        "earn": "Earn",
+        "token": "Tokens and Share Trading Fees Forever",
+        "deposit": "Deposit",
+        "usdt": "Earn FOMO",
+        "fomo": "Earn FOMOX9",
+        "fomox9": "Earn FOMO At 9X Speed",
+        "mvm": "Earn FOMOX9",
+        "fam": "Earn FOMOX9",
+        "day": "Day",
+        "finished": "Finished",
+        "notstartted": "COMING SOON",
+        "select": "Flop",
+        "address": "Genuine FOMO Token Address",
+        "address1": "Genuine FOMOX9 Token Address",
+        "TIG_Audit_Report": "TIG Audit Report",
+        "TIG_Pool_Audit_Report": "TIG Pool Audit Report",
+        "Reports_Details": "Reports Details",
+        "total": "APR"
+    },
+    "detail": {
+        "max": "Max",
+        "confirm": "Confirm",
+        "deposit": "Deposit",
+        "earn_fomo": "and earn FOMO",
+        "earn_fomox9": "and earn FOMOX9",
+        "earned_fomo": "FOMO adopted",
+        "earned_fomox9": "FOMOX9 adopted",
+        "staked": "Staked",
+        "adopt": "Harvest",
+        "feed": "Deposit",
+        "feed2": "DEPOSIT",
+        "adoptAndUnstake": "Harvest And Unstake",
+        "unstake": "Unstake",
+        "pledge": "pledge",
+        "insufficientBalance": "Insufficient balance"
+    }
+}

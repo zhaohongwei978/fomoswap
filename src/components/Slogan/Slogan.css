@@ -1,0 +1,72 @@
+.slogan{
+    margin-top: 50px;
+    text-align: center;
+}
+
+@media (max-width:768px) {
+    .slogan {
+        background: #FBFBFB;
+    }
+}
+
+.slogan::before{
+    content: "";
+    display: block;
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    background: url('../../assets/fomo-logo.png') no-repeat;
+    background-size: 100%;
+    background-position: center;
+    /*border: solid 4px #F06C2A;*/
+    /*border-radius: 80px;*/
+    box-sizing: border-box;
+}
+
+.text-logo{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.text-logo-text1{
+    font-size: 32px;
+    font-weight: 900;
+}
+
+.text-logo-text2{
+    /* line-height: 40px; */
+    font-size: 21px;
+    color: #636363;
+    font-weight: 900;
+}
+
+.text-logo-text3{
+    font-size: 32px;
+    font-weight: 900;
+    font-family: "Algerian";
+}
+
+.text-logo-text4{
+    font-size: 32px;
+    font-weight: 900;
+    font-family: "Algerian";
+}
+
+.slogan-title{
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    line-height: 32px;
+    text-align: center;
+    color: #000;
+    font-size: 21px;
+    font-weight: 400;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.slogan-title-name{
+    color: #f06c2a;
+}

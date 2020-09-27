@@ -1,0 +1,19 @@
+.root {
+  display: flex;
+  justify-content: center;
+}
+
+.loading_img{
+  width: 140px;
+  height: 140px;
+  animation: loading_img_active infinite 2s linear;
+}
+
+@keyframes loading_img_active {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
