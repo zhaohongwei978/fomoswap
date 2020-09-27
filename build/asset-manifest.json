@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7eb33686.chunk.css",
+    "main.js": "/static/js/main.30d6d105.chunk.js",
+    "main.js.map": "/static/js/main.30d6d105.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0a537582.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0a537582.js.map",
+    "static/js/2.15f61b56.chunk.js": "/static/js/2.15f61b56.chunk.js",
+    "static/js/2.15f61b56.chunk.js.map": "/static/js/2.15f61b56.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b6db6a8638504e00d753594fbf3e3eb9.js": "/precache-manifest.b6db6a8638504e00d753594fbf3e3eb9.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.7eb33686.chunk.css.map": "/static/css/main.7eb33686.chunk.css.map",
+    "static/js/2.15f61b56.chunk.js.LICENSE.txt": "/static/js/2.15f61b56.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/static/media/1.61103327.png",
+    "static/media/2.png": "/static/media/2.f15a6559.png",
+    "static/media/3.png": "/static/media/3.bddd6840.png",
+    "static/media/4.png": "/static/media/4.58c861da.png",
+    "static/media/5.png": "/static/media/5.26c8bc1e.png",
+    "static/media/App.css": "/static/media/right.5d511fed.png",
+    "static/media/Slogan.css": "/static/media/fomo-logo.1443c144.png",
+    "static/media/logo.png": "/static/media/logo.14f3e820.png",
+    "static/media/StatisticsInfo.css": "/static/media/logo2.1f01d4b6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a537582.js",
+    "static/js/2.15f61b56.chunk.js",
+    "static/css/main.7eb33686.chunk.css",
+    "static/js/main.30d6d105.chunk.js"
+  ]
+}
